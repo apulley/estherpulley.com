@@ -12,15 +12,13 @@
     display:block;
     background-repeat: no-repeat;
     background-size: cover;
-    border-radius: 0.5rem;
-    border: 1px solid #555;
-    box-shadow: 0 0 0 0 #555;
     transition: box-shadow .15s, border .15s;
     outline: 0;
+    box-shadow: 0 0 0 0 #209CEE
 }
-.grid > *:hover, .grid > *:focus {
-    border: 1px solid #209CEE;
-    box-shadow: 0 0 0 .125rem #209CEE
+.grid > * a:hover, .grid > * a:focus {
+    box-shadow: 0 0 0 .0625rem #209CEE;
+    outline:0;
 }
 .grid > [style^='--aspect-ratio']::before {
     content: "";
