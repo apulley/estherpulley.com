@@ -41,22 +41,23 @@ export default {
             name: 'Ventolin',
             src: ventolin,
             srcFull: ventolin,
-            tool: '3DS Max',
+            tool: '3ds Max',
             id: 'ventolin',
         },
         {
             name: 'Heart Valve',
             src: heartValve,
             srcFull: heartValve,
-            tool: 'Illustrator',
+            tool: '3ds Max & Illustrator',
             id: 'heartValve',
         },
         {
             name: 'White Blood Cells',
             src: whiteBlood,
             srcFull: whiteBlood,
-            tool: '3DS Max',
+            tool: '3ds Max',
             id: 'whiteBlood',
+            link: 'https://www.dropbox.com/s/u1vmi5nb2zcpr0d/07.2_estherpulley_wbc.mov?dl=0'
         },
         {
             name: 'Spine',
@@ -108,7 +109,7 @@ export default {
             id: 'inhaler',
         },
         {
-            name: 'Esther Pulley',
+            name: 'Self Portrait',
             src: self,
             srcFull: self,
             tool: 'Illustrator',

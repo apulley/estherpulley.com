@@ -8,7 +8,6 @@ class Home extends React.Component {
     }
     onButtonCLick = (id) => {
         return (e) => {
-            console.log(id)
             e.preventDefault();
             this.setState({
                 activeProject: id || ''
@@ -26,7 +25,7 @@ class Home extends React.Component {
         const { onButtonCLick, onCloseModal } = this;
         return(
             <div className="pb-40">
-                <div className="mx-auto w-4/5 grid">
+                <div className="mx-auto w-11/12 sm:w-11/12 md:w-4/5 xl:w-8/12 grid">
                     { 
                         items.images.map((image, i) => {
                             return (
