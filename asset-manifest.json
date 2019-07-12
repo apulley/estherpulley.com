@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d0ffbb8.chunk.css",
+    "main.js": "/static/js/main.b532daeb.chunk.js",
+    "main.js.map": "/static/js/main.b532daeb.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.5bc9aa4c.chunk.js": "/static/js/2.5bc9aa4c.chunk.js",
+    "static/js/2.5bc9aa4c.chunk.js.map": "/static/js/2.5bc9aa4c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ac8319be83f3864e10faadcdac4ca532.js": "/precache-manifest.ac8319be83f3864e10faadcdac4ca532.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3d0ffbb8.chunk.css.map": "/static/css/main.3d0ffbb8.chunk.css.map",
+    "static/media/01_estherpulley_anatomy_pencil.jpg": "/static/media/01_estherpulley_anatomy_pencil.f96d8c45.jpg",
+    "static/media/02_estherpulley_knee_pencil.jpg": "/static/media/02_estherpulley_knee_pencil.7447807a.jpg",
+    "static/media/03_estherpulley_fetal_heart_illustrator.jpg": "/static/media/03_estherpulley_fetal_heart_illustrator.86be8bbe.jpg",
+    "static/media/05_estherpulley_ventolin_3dsmax.jpg": "/static/media/05_estherpulley_ventolin_3dsmax.bf571cde.jpg",
+    "static/media/06_estherpulley_heartvalve_3dsmax_illustrator.jpg": "/static/media/06_estherpulley_heartvalve_3dsmax_illustrator.34a57dd3.jpg",
+    "static/media/07.1_estherpulley_whitebloodcells_3dsmax.jpg": "/static/media/07.1_estherpulley_whitebloodcells_3dsmax.9341361d.jpg",
+    "static/media/08_estherpulley_spine_illustrator_photoshop.jpg": "/static/media/08_estherpulley_spine_illustrator_photoshop.4a3a879a.jpg",
+    "static/media/09_estherpulley_sacrum_photoshop.jpg": "/static/media/09_estherpulley_sacrum_photoshop.ae5fbe77.jpg",
+    "static/media/11_estherpulley_fetal_brain_illustrator_photoshop.jpg": "/static/media/11_estherpulley_fetal_brain_illustrator_photoshop.13bb80a9.jpg",
+    "static/media/12_estherpulley_artery_illustrator_photoshop.jpg": "/static/media/12_estherpulley_artery_illustrator_photoshop.4fc06781.jpg",
+    "static/media/13_estherpulley_heart_illustrator_photoshop.jpg": "/static/media/13_estherpulley_heart_illustrator_photoshop.b1c0cf6c.jpg",
+    "static/media/14_estherpulley_liver_photoshop.jpg": "/static/media/14_estherpulley_liver_photoshop.bda216c9.jpg",
+    "static/media/15_estherpulley_inhaler_illustrator.jpg": "/static/media/15_estherpulley_inhaler_illustrator.4913dad5.jpg",
+    "static/media/16_estherpulley_portrait_illustrator_photoshop.jpg": "/static/media/16_estherpulley_portrait_illustrator_photoshop.83265f78.jpg"
+  }
+}
