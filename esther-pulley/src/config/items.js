@@ -1,6 +1,7 @@
 import anatomy from '../images/01_estherpulley_anatomy_pencil.jpg';
 import knee from '../images/02_estherpulley_knee_pencil.jpg';
 import fetalHeart from '../images/03_estherpulley_fetal_heart_illustrator.jpg';
+import syringe from '../images/04_estherpulley_syringe_3dsmax.jpg';
 import ventolin from '../images/05_estherpulley_ventolin_3dsmax.jpg';
 import heartValve from '../images/06_estherpulley_heartvalve_3dsmax_illustrator.jpg';
 import whiteBlood from '../images/07.1_estherpulley_whitebloodcells_3dsmax.jpg';
@@ -36,6 +37,13 @@ export default {
             srcFull: fetalHeart,
             tool: 'Illustrator',
             id: 'fetalHeart',
+        },
+        {
+            name: 'Syringe',
+            src: syringe,
+            srcFull: syringe,
+            tool: '3ds Max',
+            id: 'syringe',
         },
         {
             name: 'Ventolin',
@@ -86,6 +94,7 @@ export default {
             srcFull: artery,
             tool: 'Illustrator & Photoshop',
             id: 'artery',
+            position: '100% 50%',
         },  
         {
             name: 'Heart',
@@ -102,7 +111,7 @@ export default {
             id: 'liver',
         },
         {
-            name: 'inhaler',
+            name: 'Inhaler',
             src: inhaler,
             srcFull: inhaler,
             tool: 'Illustrator',
@@ -112,7 +121,7 @@ export default {
             name: 'Self Portrait',
             src: self,
             srcFull: self,
-            tool: 'Illustrator',
+            tool: 'Illustrator & Photoshop',
             id: 'self',
         },        
     ]
