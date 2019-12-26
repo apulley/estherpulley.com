@@ -4,6 +4,7 @@ import hearts_rendered_new_layout_3 from '../images/u/hearts_rendered_new_layout
 import heart_section52 from '../images/u/heart_section52.jpg';
 import pulley_e_405_4_2d from '../images/u/pulley_e_405_4_2d.jpg';
 import exertional_angina3a from '../images/u/exertional_angina3a.jpg';
+import ep_pixel_25a from '../images/u/ep_pixel_25a.png';
 
 
 export default {
@@ -43,6 +44,12 @@ export default {
             src: exertional_angina3a,
             srcFull: exertional_angina3a,
             id: 'exertional_angina3a'
+        },
+        {
+            name: 'EP',
+            src: ep_pixel_25a,
+            srcFull: ep_pixel_25a,
+            id: 'ep_pixel_25a'
         },
     ]
 }

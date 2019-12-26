@@ -7640,15 +7640,6 @@ video {
   padding-bottom: calc(100% / (var(--aspect-ratio)));
 }
 
-.ReactModal__Body--open {
-  overflow-y: hidden;
-}
-
-.ReactModal__Content{
-  transform: translate(-50%, -50%);
-  max-height: 90vh;
-}
-
 @media (min-width: 640px) {
   .sm\:appearance-none {
     -webkit-appearance: none;
@@ -35808,4 +35799,3 @@ video {
     z-index: auto;
   }
 }
-
