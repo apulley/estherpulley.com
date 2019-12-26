@@ -7,8 +7,8 @@ function Project({
     activeProject = ''
 }) {
     return (
-        <div className="relative bg-white">
-            <img src={image.src} alt={Image.name} />
+        <div className="relative mx-auto pb-64">
+            <img src={image.src} alt={image.name} />
         </div>
     );
 }

@@ -6,26 +6,12 @@ class Home extends React.Component {
     state = {
         activeProject: ''
     }
-    onButtonCLick = (id) => {
-        return (e) => {
-            e.preventDefault();
-            this.setState({
-                activeProject: id || ''
-            })
-        }
-    }
-    onCloseModal = () => {
-        console.log('here')
-        this.setState({
-            activeProject: ''
-        })
-    }
     render() {
         const { activeProject } = this.state;
         const { onButtonCLick, onCloseModal } = this;
         return (
             <div>
-                <div className="mx-auto w-12/12 grid">
+                <div className="mx-auto mx-auto w-11/12 sm:w-11/12 md:w-4/5 xl:w-6/12 grid">
                     {
                         items.images.map((image, i) => {
                             return (
