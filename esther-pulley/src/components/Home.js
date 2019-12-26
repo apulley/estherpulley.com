@@ -25,14 +25,14 @@ class Home extends React.Component {
         const { onButtonCLick, onCloseModal } = this;
         return (
             <div className="pb-40">
-                <div className="mx-auto w-11/12 sm:w-11/12 md:w-4/5 xl:w-8/12 grid">
-                    {/* { 
+                <div className="mx-auto w-11/12 grid">
+                    {
                         items.images.map((image, i) => {
                             return (
-                                <Project activeProject={activeProject} closeModal={onCloseModal} key={image.id} buttonClick={onButtonCLick(image.id)} image={image} />
+                                <Project activeProject={activeProject} closeModal={onCloseModal} key={image.id} image={image} />
                             );
                         })
-                    }           */}
+                    }
                 </div>
             </div>
         );

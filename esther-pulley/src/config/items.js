@@ -1,128 +1,48 @@
-import anatomy from '../images/01_estherpulley_anatomy_pencil.jpg';
-import knee from '../images/02_estherpulley_knee_pencil.jpg';
-import fetalHeart from '../images/03_estherpulley_fetal_heart_illustrator.jpg';
-import syringe from '../images/04_estherpulley_syringe_3dsmax.jpg';
-import ventolin from '../images/05_estherpulley_ventolin_3dsmax.jpg';
-import heartValve from '../images/06_estherpulley_heartvalve_3dsmax_illustrator.jpg';
-import whiteBlood from '../images/07.1_estherpulley_whitebloodcells_3dsmax.jpg';
-import spine from '../images/08_estherpulley_spine_illustrator_photoshop.jpg';
-import sacrum from '../images/09_estherpulley_sacrum_photoshop.jpg';
-import fetalBrain from '../images/11_estherpulley_fetal_brain_illustrator_photoshop.jpg';
-import artery from '../images/12_estherpulley_artery_illustrator_photoshop.jpg';
-import heart from '../images/13_estherpulley_heart_illustrator_photoshop.jpg';
-import liver from '../images/14_estherpulley_liver_photoshop.jpg';
-import inhaler from '../images/15_estherpulley_inhaler_illustrator.jpg';
-import self from '../images/16_estherpulley_portrait_illustrator_photoshop.jpg';
+import bronchial_tree_2 from '../images/u/bronchial_tree_2.jpg';
+import aortic_stenosis from '../images/u/aortic_stenosis.jpg';
+import hearts_rendered_new_layout_3 from '../images/u/hearts_rendered_new_layout_3.jpg';
+import heart_section52 from '../images/u/heart_section52.jpg';
+import pulley_e_405_4_2d from '../images/u/pulley_e_405_4_2d.jpg';
+import exertional_angina3a from '../images/u/exertional_angina3a.jpg';
 
 
 export default {
-    images:[
+    images: [
         {
-            name: 'Anatomy',
-            src: anatomy,
-            srcFull: anatomy,
-            tool: 'Pencil',
-            id: 'anatomy'
+            name: 'Bronchial Tree',
+            src: bronchial_tree_2,
+            srcFull: bronchial_tree_2,
+            id: 'bronchial_tree_2'
         },
         {
-            name: 'Knee',
-            src: knee,
-            srcFull: knee,
-            tool: 'Pencil',
-            id: 'knee'
+            name: 'Bronchial Tree',
+            src: aortic_stenosis,
+            srcFull: aortic_stenosis,
+            id: 'aortic_stenosis'
         },
         {
-            name: 'Fetal Heart',
-            src: fetalHeart,
-            srcFull: fetalHeart,
-            tool: 'Illustrator',
-            id: 'fetalHeart',
+            name: 'Hearts',
+            src: hearts_rendered_new_layout_3,
+            srcFull: hearts_rendered_new_layout_3,
+            id: 'hearts_rendered_new_layout_3'
         },
         {
-            name: 'Syringe',
-            src: syringe,
-            srcFull: syringe,
-            tool: '3ds Max',
-            id: 'syringe',
+            name: 'Heart Section',
+            src: heart_section52,
+            srcFull: heart_section52,
+            id: 'heart_section52'
         },
         {
-            name: 'Ventolin',
-            src: ventolin,
-            srcFull: ventolin,
-            tool: '3ds Max',
-            id: 'ventolin',
+            name: 'Torso',
+            src: pulley_e_405_4_2d,
+            srcFull: pulley_e_405_4_2d,
+            id: 'pulley_e_405_4_2d'
         },
         {
-            name: 'Heart Valve',
-            src: heartValve,
-            srcFull: heartValve,
-            tool: '3ds Max & Illustrator',
-            id: 'heartValve',
+            name: 'Exertional Angina',
+            src: exertional_angina3a,
+            srcFull: exertional_angina3a,
+            id: 'exertional_angina3a'
         },
-        {
-            name: 'White Blood Cells',
-            src: whiteBlood,
-            srcFull: whiteBlood,
-            tool: '3ds Max',
-            id: 'whiteBlood',
-            link: 'https://www.dropbox.com/s/u1vmi5nb2zcpr0d/07.2_estherpulley_wbc.mov?dl=0'
-        },
-        {
-            name: 'Spine',
-            src: spine,
-            srcFull: spine,
-            tool: 'Illustrator & Photoshop',
-            id: 'spine',
-        },
-        {
-            name: 'Sacrum',
-            src: sacrum,
-            srcFull: sacrum,
-            tool: 'Photoshop',
-            id: 'sacrum',
-        },
-        {
-            name: 'Fetal Brain',
-            src: fetalBrain,
-            srcFull: fetalBrain,
-            tool: 'Illustrator & Photoshop',
-            id: 'fetalBrain',
-        },
-        {
-            name: 'Artery',
-            src: artery,
-            srcFull: artery,
-            tool: 'Illustrator & Photoshop',
-            id: 'artery',
-            position: '100% 50%',
-        },  
-        {
-            name: 'Heart',
-            src: heart,
-            srcFull: heart,
-            tool: 'Illustrator & Photoshop',
-            id: 'heart',
-        },
-        {
-            name: 'Liver',
-            src: liver,
-            srcFull: liver,
-            tool: 'Photoshop',
-            id: 'liver',
-        },
-        {
-            name: 'Inhaler',
-            src: inhaler,
-            srcFull: inhaler,
-            tool: 'Illustrator',
-            id: 'inhaler',
-        },
-        {
-            name: 'Self Portrait',
-            src: self,
-            srcFull: self,
-            tool: 'Illustrator & Photoshop',
-            id: 'self',
-        },        
     ]
 }
