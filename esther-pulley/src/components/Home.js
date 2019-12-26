@@ -1,5 +1,5 @@
 import React from 'react';
-import {default as items} from '../config/items.js';
+import { default as items } from '../config/items.js';
 import Project from './Project';
 
 class Home extends React.Component {
@@ -23,16 +23,16 @@ class Home extends React.Component {
     render() {
         const { activeProject } = this.state;
         const { onButtonCLick, onCloseModal } = this;
-        return(
+        return (
             <div className="pb-40">
                 <div className="mx-auto w-11/12 sm:w-11/12 md:w-4/5 xl:w-8/12 grid">
-                    { 
+                    {/* { 
                         items.images.map((image, i) => {
                             return (
                                 <Project activeProject={activeProject} closeModal={onCloseModal} key={image.id} buttonClick={onButtonCLick(image.id)} image={image} />
                             );
                         })
-                    }          
+                    }           */}
                 </div>
             </div>
         );

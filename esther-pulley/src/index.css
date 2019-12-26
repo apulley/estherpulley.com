@@ -538,7 +538,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: SFMono-Regular, Menlo;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 /**
@@ -3503,23 +3503,15 @@ video {
 }
 
 .font-sans {
-  font-family: Open Sans, serif;
-}
-
-.font-serif {
-  font-family: Domine, sans-serif;
-}
-
-.font-mono {
-  font-family: SFMono-Regular, Menlo;
+  font-family: proxima-nova, sans-serif;
 }
 
 .font-display {
-  font-family: Domine;
+  font-family: proxima-nova;
 }
 
 .font-body {
-  font-family: Open Sans;
+  font-family: proxima-nova;
 }
 
 .font-hairline {
@@ -10588,23 +10580,15 @@ video {
   }
 
   .sm\:font-sans {
-    font-family: Open Sans, serif;
-  }
-
-  .sm\:font-serif {
-    font-family: Domine, sans-serif;
-  }
-
-  .sm\:font-mono {
-    font-family: SFMono-Regular, Menlo;
+    font-family: proxima-nova, sans-serif;
   }
 
   .sm\:font-display {
-    font-family: Domine;
+    font-family: proxima-nova;
   }
 
   .sm\:font-body {
-    font-family: Open Sans;
+    font-family: proxima-nova;
   }
 
   .sm\:font-hairline {
@@ -17636,23 +17620,15 @@ video {
   }
 
   .md\:font-sans {
-    font-family: Open Sans, serif;
-  }
-
-  .md\:font-serif {
-    font-family: Domine, sans-serif;
-  }
-
-  .md\:font-mono {
-    font-family: SFMono-Regular, Menlo;
+    font-family: proxima-nova, sans-serif;
   }
 
   .md\:font-display {
-    font-family: Domine;
+    font-family: proxima-nova;
   }
 
   .md\:font-body {
-    font-family: Open Sans;
+    font-family: proxima-nova;
   }
 
   .md\:font-hairline {
@@ -24684,23 +24660,15 @@ video {
   }
 
   .lg\:font-sans {
-    font-family: Open Sans, serif;
-  }
-
-  .lg\:font-serif {
-    font-family: Domine, sans-serif;
-  }
-
-  .lg\:font-mono {
-    font-family: SFMono-Regular, Menlo;
+    font-family: proxima-nova, sans-serif;
   }
 
   .lg\:font-display {
-    font-family: Domine;
+    font-family: proxima-nova;
   }
 
   .lg\:font-body {
-    font-family: Open Sans;
+    font-family: proxima-nova;
   }
 
   .lg\:font-hairline {
@@ -31732,23 +31700,15 @@ video {
   }
 
   .xl\:font-sans {
-    font-family: Open Sans, serif;
-  }
-
-  .xl\:font-serif {
-    font-family: Domine, sans-serif;
-  }
-
-  .xl\:font-mono {
-    font-family: SFMono-Regular, Menlo;
+    font-family: proxima-nova, sans-serif;
   }
 
   .xl\:font-display {
-    font-family: Domine;
+    font-family: proxima-nova;
   }
 
   .xl\:font-body {
-    font-family: Open Sans;
+    font-family: proxima-nova;
   }
 
   .xl\:font-hairline {

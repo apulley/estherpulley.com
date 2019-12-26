@@ -16,11 +16,9 @@ module.exports = {
       }
     },
     fontFamily: {
-      'sans': ['Open Sans', 'serif',],
-      'serif': ['Domine', 'sans-serif',],
-      'mono': ['SFMono-Regular', 'Menlo',],
-      'display': ['Domine',],
-      'body': ['Open Sans',],
+      'sans': ['proxima-nova', 'sans-serif',],
+      'display': ['proxima-nova',],
+      'body': ['proxima-nova',],
     },
     inset: {
       '0': '0',
