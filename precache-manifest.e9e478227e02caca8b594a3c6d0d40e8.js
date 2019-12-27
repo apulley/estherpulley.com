@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d3865101591e57da003fd5c2518ac7a",
+    "revision": "eeb59206ac2c9b990f5cfd94d3dec2f6",
     "url": "/index.html"
   },
   {
-    "revision": "298944effd5d6544ce09",
+    "revision": "6b67269d0abdc8c39a7d",
     "url": "/static/css/main.fbc7171d.chunk.css"
   },
   {
-    "revision": "c2dd3580ec8df5c1a1be",
-    "url": "/static/js/2.e1bd457d.chunk.js"
+    "revision": "add8163df1c2630ccff5",
+    "url": "/static/js/2.54e2c2fb.chunk.js"
   },
   {
-    "revision": "298944effd5d6544ce09",
-    "url": "/static/js/main.50a16ea7.chunk.js"
+    "revision": "6b67269d0abdc8c39a7d",
+    "url": "/static/js/main.c27f489a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,12 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bronchial_tree_2.5e4eb0ef.jpg"
   },
   {
-    "revision": "8da39972f2b041fbd07f7e96edacaa3b",
-    "url": "/static/media/ep_pixel_25a.8da39972.png"
+    "revision": "fae4481b8b731362f63c21003b765f43",
+    "url": "/static/media/ep_pixel_25a.fae4481b.png"
   },
   {
     "revision": "773e7a883dc3c374bab312e696b5f641",
     "url": "/static/media/exertional_angina3a.773e7a88.jpg"
+  },
+  {
+    "revision": "237c92a14d211bca82e6691457d83bcc",
+    "url": "/static/media/heart_circulation_3a.237c92a1.jpg"
   },
   {
     "revision": "bfde64e3b8eea761c81d64304082607f",
