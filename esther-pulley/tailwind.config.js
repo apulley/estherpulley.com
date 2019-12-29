@@ -2,8 +2,7 @@ module.exports = {
   theme: {
     extend: {
       maxWidth: {
-        'mi': '12rem',
-        'sm': '16rem',
+        'mi': '6rem',
       },
       colors: {
         gray: {
