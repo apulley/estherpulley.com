@@ -1,6 +1,8 @@
 import React from 'react';
 
-const name = ['p', 'u', 'l', 'l', 'e', 'y'];
+const name1 = ['e', 's', 't', 'h', 'e', 'r', '·'];
+const name2 = ['p', 'u', 'l', 'l', 'e', 'y'];
+const name = name1.concat(name2);
 
 function Footer() {
     return (

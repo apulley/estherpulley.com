@@ -1,6 +1,10 @@
 module.exports = {
   theme: {
     extend: {
+      maxWidth: {
+        'mi': '12rem',
+        'sm': '16rem',
+      },
       colors: {
         gray: {
           '100': '#f5f5f5',
@@ -30,6 +34,7 @@ module.exports = {
     },
   },
   variants: {
+    maxWidth: ['responsive'],
   },
   plugins: [
   ],

@@ -1,63 +1,53 @@
-import bronchial_tree_2 from '../images/u/bronchial_tree_2.jpg';
-import aortic_stenosis from '../images/u/aortic_stenosis.jpg';
-import hearts_rendered_new_layout_3 from '../images/u/hearts_rendered_new_layout_3.jpg';
-import heart_section52 from '../images/u/heart_section52.jpg';
-import pulley_e_405_4_2d from '../images/u/pulley_e_405_4_2d.jpg';
-import exertional_angina3a from '../images/u/exertional_angina3a.jpg';
-import ep_pixel_25a from '../images/u/ep_pixel_25a.png';
-import heart_circulation_3a from '../images/u/heart_circulation_3a.jpg';
-
-//
+import e01 from '../images/u/estherpulley_01.jpg';
+import e02 from '../images/u/estherpulley_02.jpg';
+import e03 from '../images/u/estherpulley_03.jpg';
+import e04 from '../images/u/estherpulley_04.jpg';
+import e05 from '../images/u/estherpulley_05.jpg';
+import e06 from '../images/u/estherpulley_06.jpg';
+import e07 from '../images/u/estherpulley_07.jpg';
+import e99 from '../images/u/estherpulley_99.png';
 
 export default {
     images: [
         {
-            name: 'Heart Section',
-            src: heart_section52,
-            srcFull: heart_section52,
-            id: 'heart_section52'
+            name: '',
+            src: e01,
+            id: 'e01'
         },
         {
-            name: 'Heart Circulation',
-            src: heart_circulation_3a,
-            srcFull: heart_circulation_3a,
-            id: 'heart_circulation_3a'
+            name: '',
+            src: e02,
+            id: 'e02'
         },
         {
-            name: 'Bronchial Tree',
-            src: bronchial_tree_2,
-            srcFull: bronchial_tree_2,
-            id: 'bronchial_tree_2'
+            name: '',
+            src: e03,
+            id: 'e03'
         },
         {
-            name: 'aortic stenosis',
-            src: aortic_stenosis,
-            srcFull: aortic_stenosis,
-            id: 'aortic_stenosis'
+            name: '',
+            src: e04,
+            id: 'e04'
         },
         {
-            name: 'Torso',
-            src: pulley_e_405_4_2d,
-            srcFull: pulley_e_405_4_2d,
-            id: 'pulley_e_405_4_2d'
+            name: '',
+            src: e05,
+            id: 'e05'
         },
         {
-            name: 'Exertional Angina',
-            src: exertional_angina3a,
-            srcFull: exertional_angina3a,
-            id: 'exertional_angina3a'
+            name: '',
+            src: e06,
+            id: 'e06'
         },
         {
-            name: 'Hearts',
-            src: hearts_rendered_new_layout_3,
-            srcFull: hearts_rendered_new_layout_3,
-            id: 'hearts_rendered_new_layout_3'
+            name: '',
+            src: e07,
+            id: 'e07'
         },
         {
-            name: 'EP',
-            src: ep_pixel_25a,
-            srcFull: ep_pixel_25a,
-            id: 'ep_pixel_25a'
+            name: '',
+            src: e99,
+            id: 'e99'
         },
     ]
 }
