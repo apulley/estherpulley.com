@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0cb029465e78fcb141f29f11a3b3bc9",
+    "revision": "1d918dfa420ece147fabb11c894e5ebf",
     "url": "/index.html"
   },
   {
-    "revision": "d22ce924107b029aa1b3",
-    "url": "/static/css/main.39757c0a.chunk.css"
+    "revision": "444895fad75ba3c85059",
+    "url": "/static/css/main.29a8ac77.chunk.css"
   },
   {
     "revision": "92a05bf301cb297b0e58",
     "url": "/static/js/2.48249f52.chunk.js"
   },
   {
-    "revision": "d22ce924107b029aa1b3",
-    "url": "/static/js/main.3e27e741.chunk.js"
+    "revision": "444895fad75ba3c85059",
+    "url": "/static/js/main.be8ccb6b.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -54,5 +54,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5a3a31d4b65a219e40e206ab670cf789",
     "url": "/static/media/estherpulley_99.5a3a31d4.png"
+  },
+  {
+    "revision": "c6051d48dc1436702c01c79dacba0d66",
+    "url": "/static/media/estherpulley_logo_white.c6051d48.svg"
   }
 ]);
