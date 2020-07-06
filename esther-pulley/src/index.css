@@ -3503,15 +3503,15 @@ video {
 }
 
 .font-sans {
-  font-family: proxima-nova, sans-serif;
+  font-family: HKGroteskRegular, sans-serif;
 }
 
 .font-display {
-  font-family: proxima-nova;
+  font-family: HKGroteskRegular;
 }
 
 .font-body {
-  font-family: proxima-nova;
+  font-family: HKGroteskRegular;
 }
 
 .font-hairline {
@@ -4948,6 +4948,10 @@ video {
 
 .max-w-mi {
   max-width: 6rem;
+}
+
+.max-w-xxs {
+  max-width: 8rem;
 }
 
 .min-h-0 {
@@ -7167,12 +7171,12 @@ video {
   color: #702459;
 }
 
-.text-xs {
-  font-size: 0.75rem;
+.text-mi {
+  font-size: .66rem;
 }
 
 .text-sm {
-  font-size: 0.875rem;
+  font-size: .875rem;
 }
 
 .text-base {
@@ -7181,30 +7185,6 @@ video {
 
 .text-lg {
   font-size: 1.125rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-}
-
-.text-5xl {
-  font-size: 3rem;
-}
-
-.text-6xl {
-  font-size: 4rem;
 }
 
 .italic {
@@ -10574,15 +10554,15 @@ video {
   }
 
   .sm\:font-sans {
-    font-family: proxima-nova, sans-serif;
+    font-family: HKGroteskRegular, sans-serif;
   }
 
   .sm\:font-display {
-    font-family: proxima-nova;
+    font-family: HKGroteskRegular;
   }
 
   .sm\:font-body {
-    font-family: proxima-nova;
+    font-family: HKGroteskRegular;
   }
 
   .sm\:font-hairline {
@@ -12019,6 +11999,10 @@ video {
 
   .sm\:max-w-mi {
     max-width: 6rem;
+  }
+
+  .sm\:max-w-xxs {
+    max-width: 8rem;
   }
 
   .sm\:min-h-0 {
@@ -14238,12 +14222,12 @@ video {
     color: #702459;
   }
 
-  .sm\:text-xs {
-    font-size: 0.75rem;
+  .sm\:text-mi {
+    font-size: .66rem;
   }
 
   .sm\:text-sm {
-    font-size: 0.875rem;
+    font-size: .875rem;
   }
 
   .sm\:text-base {
@@ -14252,30 +14236,6 @@ video {
 
   .sm\:text-lg {
     font-size: 1.125rem;
-  }
-
-  .sm\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .sm\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .sm\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .sm\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .sm\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .sm\:text-6xl {
-    font-size: 4rem;
   }
 
   .sm\:italic {
@@ -17618,15 +17578,15 @@ video {
   }
 
   .md\:font-sans {
-    font-family: proxima-nova, sans-serif;
+    font-family: HKGroteskRegular, sans-serif;
   }
 
   .md\:font-display {
-    font-family: proxima-nova;
+    font-family: HKGroteskRegular;
   }
 
   .md\:font-body {
-    font-family: proxima-nova;
+    font-family: HKGroteskRegular;
   }
 
   .md\:font-hairline {
@@ -19063,6 +19023,10 @@ video {
 
   .md\:max-w-mi {
     max-width: 6rem;
+  }
+
+  .md\:max-w-xxs {
+    max-width: 8rem;
   }
 
   .md\:min-h-0 {
@@ -21282,12 +21246,12 @@ video {
     color: #702459;
   }
 
-  .md\:text-xs {
-    font-size: 0.75rem;
+  .md\:text-mi {
+    font-size: .66rem;
   }
 
   .md\:text-sm {
-    font-size: 0.875rem;
+    font-size: .875rem;
   }
 
   .md\:text-base {
@@ -21296,30 +21260,6 @@ video {
 
   .md\:text-lg {
     font-size: 1.125rem;
-  }
-
-  .md\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .md\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .md\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .md\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .md\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .md\:text-6xl {
-    font-size: 4rem;
   }
 
   .md\:italic {
@@ -24662,15 +24602,15 @@ video {
   }
 
   .lg\:font-sans {
-    font-family: proxima-nova, sans-serif;
+    font-family: HKGroteskRegular, sans-serif;
   }
 
   .lg\:font-display {
-    font-family: proxima-nova;
+    font-family: HKGroteskRegular;
   }
 
   .lg\:font-body {
-    font-family: proxima-nova;
+    font-family: HKGroteskRegular;
   }
 
   .lg\:font-hairline {
@@ -26107,6 +26047,10 @@ video {
 
   .lg\:max-w-mi {
     max-width: 6rem;
+  }
+
+  .lg\:max-w-xxs {
+    max-width: 8rem;
   }
 
   .lg\:min-h-0 {
@@ -28326,12 +28270,12 @@ video {
     color: #702459;
   }
 
-  .lg\:text-xs {
-    font-size: 0.75rem;
+  .lg\:text-mi {
+    font-size: .66rem;
   }
 
   .lg\:text-sm {
-    font-size: 0.875rem;
+    font-size: .875rem;
   }
 
   .lg\:text-base {
@@ -28340,30 +28284,6 @@ video {
 
   .lg\:text-lg {
     font-size: 1.125rem;
-  }
-
-  .lg\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .lg\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .lg\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .lg\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .lg\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .lg\:text-6xl {
-    font-size: 4rem;
   }
 
   .lg\:italic {
@@ -31706,15 +31626,15 @@ video {
   }
 
   .xl\:font-sans {
-    font-family: proxima-nova, sans-serif;
+    font-family: HKGroteskRegular, sans-serif;
   }
 
   .xl\:font-display {
-    font-family: proxima-nova;
+    font-family: HKGroteskRegular;
   }
 
   .xl\:font-body {
-    font-family: proxima-nova;
+    font-family: HKGroteskRegular;
   }
 
   .xl\:font-hairline {
@@ -33151,6 +33071,10 @@ video {
 
   .xl\:max-w-mi {
     max-width: 6rem;
+  }
+
+  .xl\:max-w-xxs {
+    max-width: 8rem;
   }
 
   .xl\:min-h-0 {
@@ -35370,12 +35294,12 @@ video {
     color: #702459;
   }
 
-  .xl\:text-xs {
-    font-size: 0.75rem;
+  .xl\:text-mi {
+    font-size: .66rem;
   }
 
   .xl\:text-sm {
-    font-size: 0.875rem;
+    font-size: .875rem;
   }
 
   .xl\:text-base {
@@ -35384,30 +35308,6 @@ video {
 
   .xl\:text-lg {
     font-size: 1.125rem;
-  }
-
-  .xl\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .xl\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .xl\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .xl\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .xl\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .xl\:text-6xl {
-    font-size: 4rem;
   }
 
   .xl\:italic {

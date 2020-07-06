@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.png" />
-  <link rel="stylesheet" href="https://use.typekit.net/mfa5gko.css">
+  <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/hk-grotesk" type="text/css" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#000000" />
   <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
@@ -21,7 +21,11 @@
 
 </head>
 
-<body class="font-sans text-gray-800" style="background-color:#ffffff">
+<body id="body" class="font-sans text-gray-800">
+  <script>
+    var elbody = document.getElementById("body");
+    elbody.setAttribute("style", "min-height:" + (window.innerHeight + 200) + "px;background-color:#fffff");
+  </script>
   <noscript>You need to enable JavaScript to run this app.</noscript>
   <div id="root"></div>
 </body>

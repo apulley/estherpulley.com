@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../images/u/estherpulley_logo.png';
+import logo from '../images/u/estherpulley_logo_white.svg';
 
 
 function Header() {

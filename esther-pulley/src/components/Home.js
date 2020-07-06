@@ -11,11 +11,16 @@ class Home extends React.Component {
         const { onButtonCLick, onCloseModal } = this;
         return (
             <div>
-                <div className="mx-auto mx-auto w-11/12 sm:w-11/12 md:w-4/5 xl:w-5/12 grid">
+                <div className="mx-auto mx-auto w-10/12  md:w-4/5 xl:w-6/12 grid">
                     {
                         items.images.map((image, i) => {
                             return (
-                                <Project activeProject={activeProject} closeModal={onCloseModal} key={image.id} image={image} />
+                                <div key={i} className="relative mx-auto mb-16 lg:mb-32" style={{
+                                    paddingBottom: `${(image.size[1] / image.size[0]) * 100}%`,
+                                    background: '#ffffff'
+                                }}>
+                                    <Project activeProject={activeProject} closeModal={onCloseModal} key={image.id} image={image} />
+                                </div>
                             );
                         })
                     }

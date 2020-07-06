@@ -3,6 +3,7 @@ module.exports = {
     extend: {
       maxWidth: {
         'mi': '6rem',
+        'xxs': '8rem',
       },
       colors: {
         gray: {
@@ -18,10 +19,16 @@ module.exports = {
         }
       }
     },
+    fontSize: {
+      'mi': '.66rem',
+      'sm': '.875rem',
+      'base': '1rem',
+      'lg': '1.125rem'
+    },
     fontFamily: {
-      'sans': ['proxima-nova', 'sans-serif',],
-      'display': ['proxima-nova',],
-      'body': ['proxima-nova',],
+      'sans': ['HKGroteskRegular', 'sans-serif',],
+      'display': ['HKGroteskRegular',],
+      'body': ['HKGroteskRegular',],
     },
     inset: {
       '0': '0',
